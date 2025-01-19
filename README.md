@@ -6,7 +6,7 @@ Rock, Paper, Scissors is a classic hand game often used to make decisions or pla
 
 
 
-📜 Rules:
+📜 **Rules:**
 
     Rock beats Scissors (Rock crushes Scissors).
     Scissors beats Paper (Scissors cuts Paper).
